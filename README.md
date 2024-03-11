@@ -20,3 +20,13 @@ title={Electric &amp; Alternative Fuel Charging Stations 2023},
 title={Electric Vehicle Population},
 * url=https://www.kaggle.com/dsv/6687350
 
+Examples of charts:
+
+ ![Which are the best selling EV brands in the market - example](https://github.com/Vkrishm/Project3/assets/114547733/baf4efb5-7747-4367-b1a1-4e27c80bd85f)
+
+![How are sales of EV and Hybrid cars trending - example](https://github.com/Vkrishm/Project3/assets/114547733/0e2454f9-987a-499e-a1b7-8888bf902a24)
+
+![What % of EV chrging stations are public and % private - example](https://github.com/Vkrishm/Project3/assets/114547733/dcec724d-b785-4501-af09-7512ccff9ebf)
+
+![What is the density of these charging stations across US Rationale - example](https://github.com/Vkrishm/Project3/assets/114547733/d95c36f0-5662-421e-9173-2638461e73dd)
+
