@@ -12,7 +12,8 @@ Rationale
 -	Commercial pointers are made available to businesses in terms of investment decisions by further analysis car models and past trends
 Limitations
 -	Further studies may be needed to establish correlations between similar regions with varying sales and charging stations density
-Dataset
+
+* Dataset
 title={Electric &amp; Alternative Fuel Charging Stations 2023},
 url={https://www.kaggle.com/ds/2375714},
 
