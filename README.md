@@ -15,8 +15,8 @@ Limitations
 
 * Dataset
 title={Electric &amp; Alternative Fuel Charging Stations 2023},
-url={https://www.kaggle.com/ds/2375714},
+* url={https://www.kaggle.com/ds/2375714},
 
 title={Electric Vehicle Population},
-url={https://www.kaggle.com/dsv/6687350}
+* url={https://www.kaggle.com/dsv/6687350}
 
