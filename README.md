@@ -1,4 +1,4 @@
-# Project3
+# Project3 - Proposal
 
 Objective:
 Analytics on EV and Hybrid cars in US with an objective to determine the following
@@ -33,3 +33,16 @@ Examples of charts:
   
 ![What is the density of these charging stations across US Rationale - example](https://github.com/Vkrishm/Project3/assets/114547733/d95c36f0-5662-421e-9173-2638461e73dd)
 -	What is the density of these charging stations across US
+
+# Project 3 - Readme
+
+Overveiw of project:
+
+- Electric and Hybrid vehicle (EV/ HV) usage is on the rise across the world
+- This story looks at sales data of EV and HV data across 
+- It also maps charging stations across US to see where they are concentrated
+- Data analytics and charging station concentration arms commercial and public decision makers to direct resources optimally
+- Public policy can then be directed in a certain direction
+- Commercial decisions can be made optimally based on current and potential sales opportunities
+
+  
