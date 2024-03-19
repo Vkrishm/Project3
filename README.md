@@ -44,7 +44,9 @@ Overveiw of project (Data Visualisation):
 - Data analytics and charging station concentration arms commercial and public decision makers to direct resources optimally
 - Public policy can then be directed in a certain direction
 - Commercial decisions can be made optimally based on current and potential sales opportunities
- --
+  
+--
+
 - Data was stored and extracted in SQL (project 3 final / SQL) folder
 - Data visualisations made using Java(Project 3 final/Java) and Project 3 final/visualisations) and Python(data.ipynb)
 - Flask with interactive routes (Project 3 Final/API_Flask)
