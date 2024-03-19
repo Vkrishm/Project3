@@ -75,7 +75,7 @@ How to use and interact with Project:
 
 --
 
--java script visualisations in (Project 3 final/visualisations)
+- Java script visualisations in (Project 3 final/visualisations)
 
 
 Sources for data:
