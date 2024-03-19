@@ -54,10 +54,14 @@ How to use and interact with Project:
 - Go to Windows Settings/ Storage and delete Temporary files
 - Type http://localhost:8000 to view Java visualisation
 
+--
+
 - Jupyter notebook named "data.ipynb" contains python script
 - Analysed data from dataset folders to make dataframe and then visualisations
 - At the very bottom all 3 visualisations have been shown
 - Library not used in class called "PyPDF2" is used
+  
+--
 
 - API Flask has three routes you can access (In Project 3 final folder)
 
