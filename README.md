@@ -77,6 +77,11 @@ How to use and interact with Project:
 
 - Java script visualisations in (Project 3 final/visualisations)
 
+Ethical Considerations:
+- Fuel station data was taken from multiple sources, as to decrease bias
+- All data collection is transparent and has consent
+- 
+
 
 Sources for data:
 title={Electric &amp; Alternative Fuel Charging Stations 2023},
