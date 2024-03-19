@@ -51,6 +51,8 @@ Overveiw of project (Data Visualisation):
 - Data visualisations made using Java(Project 3 final/Java) and Project 3 final/visualisations) and Python(data.ipynb)
 - Flask with interactive routes (Project 3 Final/API_Flask)
 
+--
+
 How to use and interact with Project:
 
 - Please follow below steps to run html files (In Project 3 final)
@@ -70,6 +72,11 @@ How to use and interact with Project:
 --
 
 - API Flask has three routes you can access (In Project 3 final folder)
+
+--
+
+-java script visualisations in (Project 3 final/visualisations)
+
 
 Sources for data:
 title={Electric &amp; Alternative Fuel Charging Stations 2023},
