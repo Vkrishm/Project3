@@ -45,4 +45,26 @@ Overveiw of project:
 - Public policy can then be directed in a certain direction
 - Commercial decisions can be made optimally based on current and potential sales opportunities
 
-  
+How to use and interact with Project:
+
+-Please follow below steps to run html files (In Project 3 final)
+-Due to Cross-Origin Resource Sharing  (CORS), html  files are to be run on local server
+-Open a local server in the directory of the html file as below
+-Clear your browser cache to ensure you're not seeing cached content
+-Go to Windows Settings/ Storage and delete Temporary files
+-Type http://localhost:8000 to view Java visualisation
+
+-Jupyter notebook named "data.ipynb" contains python script
+-Analysed data from dataset folders to make dataframe and then visualisations
+-At the very bottom all 3 visualisations have been shown
+-Library not used in class called "PyPDF2" is used
+
+-API Flask has three routes you can access (In Project 3 final folder)
+
+Sources for data:
+title={Electric &amp; Alternative Fuel Charging Stations 2023},
+* url=https://www.kaggle.com/ds/2375714
+
+title={Electric Vehicle Population},
+* url=https://www.kaggle.com/dsv/6687350
+
